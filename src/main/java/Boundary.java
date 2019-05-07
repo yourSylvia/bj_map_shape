@@ -2,10 +2,6 @@ import lombok.Data;
 
 import java.util.List;
 
-/**
- * @author wangc wangchuan@shanshu.ai
- * @date 2018/06/27
- */
 @Data
 public class Boundary {
 
