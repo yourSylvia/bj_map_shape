@@ -11,10 +11,6 @@ import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author wangc wangchuan@shanshu.ai
- * @date 2018/06/27
- */
 public class Demo {
 
     public static void main(String[] args) throws IOException {
